@@ -1,0 +1,57 @@
+﻿  GLFW_Version.cpp
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\Angel.h(63,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\glad\glad.h(323,1): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+  C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\GL\glew.h(308,1):
+  see previous definition of 'GL_ALL_ATTRIB_BITS'
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\glad\glad.h(411,1): warning C4005: 'GL_LOGIC_OP': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+  C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\GL\glew.h(801,1):
+  see previous definition of 'GL_LOGIC_OP'
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\glad\glad.h(495,1): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+  C:\Users\Ahmed Elshaarawy\Desktop\3D Model\include\GL\glew.h(802,1):
+  see previous definition of 'GL_TEXTURE_COMPONENTS'
+  
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(43,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(44,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(67,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(794,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(797,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(800,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(802,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(803,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(804,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(805,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(806,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(807,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(808,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\GLFW_Version.cpp(809,30): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab6.vcxproj -> C:\Users\Ahmed Elshaarawy\Desktop\3D Model - Edits\x64\Debug\Lab6.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

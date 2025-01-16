@@ -1,0 +1,8 @@
+C:\Users\mirna.hesham\Desktop\Lab6\x64\Debug\Lab6.exe
+C:\Users\mirna.hesham\Desktop\Lab6\x64\Debug\Lab6.pdb
+C:\Users\mirna.hesham\Desktop\CS4350\Current Labs\Lab9\x64\Debug\Lab6.exe
+C:\Users\mirna.hesham\Desktop\CS4350\Current Labs\Lab9\x64\Debug\Lab6.pdb
+C:\Users\mirna.hesham\Desktop\Lab9\x64\Debug\Lab6.exe
+C:\Users\mirna.hesham\Desktop\Lab9\x64\Debug\Lab6.pdb
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\x64\Debug\Lab6.exe
+C:\Users\mirna.hesham\Desktop\3D Model\x64\Debug\Lab6.exe
